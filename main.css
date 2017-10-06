@@ -1,0 +1,23 @@
+body{
+  background-color: black;
+    text-align: center;
+      font-family: Coming Soon, cursive;
+}
+.container{
+  background-image: url("images/10.gif");
+  margin-top: 50px;
+ padding-bottom: 35px;
+}
+hr{
+  width: 300px;
+  border-bottom: 5px dashed black;
+     }
+#temp {
+font-size: 2.5em;
+            }
+#icon {
+  border: black solid 1px;
+           }
+footer {
+  color: white;
+}
